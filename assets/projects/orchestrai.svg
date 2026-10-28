@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 273" role="img" aria-labelledby="t d">
+<title id="t">OrchestrAI — ARCHIVED</title><desc id="d">A production-minded foundation for LLM provider and workflow orchestration.</desc>
+<defs><radialGradient id="wash04"><stop stop-color="#E4B67C" stop-opacity=".19"/><stop offset="1" stop-color="#E4B67C" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="618" height="271" rx="17" fill="#0B1423" stroke="#34455F" stroke-opacity=".8" stroke-width="2"/>
+<rect x="1" y="1" width="618" height="5" rx="3" fill="#E4B67C"/>
+<circle cx="522" cy="111" r="147" fill="url(#wash04)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="30" y="43" fill="#E4B67C" font-size="13" font-weight="800" letter-spacing="2">04 / AI INFRASTRUCTURE</text>
+<rect x="445" y="18" width="145" height="29" rx="14" fill="#50351D" stroke="#E4B67C" stroke-opacity=".56"/>
+<text x="517" y="37" text-anchor="middle" fill="#E4B67C" font-size="11" font-weight="800" letter-spacing=".7">ARCHIVED</text>
+<text x="30" y="109" fill="#F1F7FF" font-size="45" font-weight="800" letter-spacing="-1.8">OrchestrAI</text>
+<text x="30" y="157" fill="#B4C7DC" font-size="17">A production-minded foundation for</text>
+<text x="30" y="180" fill="#B4C7DC" font-size="17">LLM provider and workflow orchestration.</text>
+<path d="M30 218H588" stroke="#61758C" stroke-opacity=".45"/>
+<text x="30" y="246" fill="#8DA5C4" font-size="12" font-weight="700" letter-spacing="1.65">JAVA  /  SPRING BOOT  /  REDIS</text>
+</g>
+<g transform="translate(509 130)" stroke="#E4B67C" fill="none" stroke-width="2"><circle cx="0" cy="-33" r="19"/><circle cx="-46" cy="30" r="18"/><circle cx="49" cy="30" r="18"/><path d="M-12 -18L-35 15M13 -18L37 15M-27 30H31" opacity=".68"/><circle cy="-33" r="5" fill="#E4B67C"/><circle cx="-46" cy="30" r="5" fill="#E4B67C"/><circle cx="49" cy="30" r="5" fill="#E4B67C"/></g>
+</svg>

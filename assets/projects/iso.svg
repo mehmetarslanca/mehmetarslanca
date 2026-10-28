@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 273" role="img" aria-labelledby="t d">
+<title id="t">IT'S SO OVER — IN DEVELOPMENT</title><desc id="d">On-device Android behavioral context and carefully timed reality checks.</desc>
+<defs><radialGradient id="wash02"><stop stop-color="#65E0C5" stop-opacity=".19"/><stop offset="1" stop-color="#65E0C5" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="618" height="271" rx="17" fill="#0B1423" stroke="#34455F" stroke-opacity=".8" stroke-width="2"/>
+<rect x="1" y="1" width="618" height="5" rx="3" fill="#65E0C5"/>
+<circle cx="522" cy="111" r="147" fill="url(#wash02)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="30" y="43" fill="#65E0C5" font-size="13" font-weight="800" letter-spacing="2">02 / DEVONAIR · COLLABORATIVE</text>
+<rect x="445" y="18" width="145" height="29" rx="14" fill="#154942" stroke="#65E0C5" stroke-opacity=".56"/>
+<text x="517" y="37" text-anchor="middle" fill="#65E0C5" font-size="11" font-weight="800" letter-spacing=".7">IN DEVELOPMENT</text>
+<text x="30" y="109" fill="#F1F7FF" font-size="38" font-weight="800" letter-spacing="-1.8">IT'S SO OVER</text>
+<text x="30" y="157" fill="#B4C7DC" font-size="17">On-device Android behavioral context</text>
+<text x="30" y="180" fill="#B4C7DC" font-size="17">and carefully timed reality checks.</text>
+<path d="M30 218H588" stroke="#61758C" stroke-opacity=".45"/>
+<text x="30" y="246" fill="#8DA5C4" font-size="12" font-weight="700" letter-spacing="1.65">KOTLIN  /  COMPOSE  /  ON-DEVICE</text>
+</g>
+<g transform="translate(510 130)" stroke="#65E0C5" fill="none"><circle r="16" stroke-width="2.5"/><circle r="39" opacity=".5" stroke-width="2"/><circle r="63" opacity=".22" stroke-width="2"/><path d="M-65 4H-37L-23 -15L-10 20L6 -8L20 5H68" stroke-width="2.2"/></g>
+</svg>
